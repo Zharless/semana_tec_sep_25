@@ -1,2 +1,2 @@
 # semana_tec_sep_25
-Activity
+Bienvenidos a la clase de Herramientas computacionales: el arte de la programación
